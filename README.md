@@ -96,7 +96,7 @@ The build files will be located in the build directory.
 
 <h2 id="contribute">Contribute</h2>
 
-<p>We welcome contributions! Please create an issue <a href="https://github.com/youssef-kobi/Firebase-Auth-Template/issues">here</a> to report bugs or suggest new features.</p>
+<p>We welcome contributions! Please create an issue <a href="https://github.com/youssef-kobi/react-tailwindcss-boilerplate/issues">here</a> to report bugs or suggest new features.</p>
 
 
 
