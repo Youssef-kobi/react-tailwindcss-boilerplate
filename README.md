@@ -1,8 +1,9 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/yourusername/react-tailwindcss-boilerplate">
-    <img src="https://placehold.it/200x200" alt="React TailwindCSS Boilerplate" width="200">
+  <a href="https://github.com/youssef-kobi/react-tailwindcss-boilerplate">
+    <img src="https://user-images.githubusercontent.com/52678976/232362333-b4013196-959c-46b8-bd9b-8619fd226f73.png" alt="React TailwindCSS Boilerplate" width="200">
   </a>
+
   <br>
   React TailwindCSS Boilerplate
   <br>
@@ -14,8 +15,8 @@
   <a href="https://img.shields.io/npm/v/npm?style=plastic">
     <img src="https://img.shields.io/npm/v/npm?style=plastic" alt="npm version" height="18">
   </a>
-  <a href="https://github.com/yourusername/react-tailwindcss-boilerplate">
-    <img src="https://img.shields.io/github/stars/yourusername/react-tailwindcss-boilerplate?style=social" alt="GitHub stars">
+  <a href="https://github.com/youssef-kobi/react-tailwindcss-boilerplate">
+    <img src="https://img.shields.io/github/stars/youssef-kobi/react-tailwindcss-boilerplate?style=social" alt="GitHub stars">
   </a>
 </p>
 
@@ -52,7 +53,7 @@ This project is a boilerplate for creating React applications with TailwindCSS. 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/react-tailwindcss-boilerplate.git
+git clone https://github.com/youssef-kobi/react-tailwindcss-boilerplate.git
 ```
 
 2. Install dependencies:
